@@ -1,0 +1,2 @@
+export OAUTH_USERNAME=your_test_email@gmail.com
+export OAUTH_PASSWORD=your_password
