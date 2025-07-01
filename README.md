@@ -4,16 +4,6 @@ The main goal: **simulate a real user's login flow**, capture the authorization 
 
 ---
 
-## ⚙️ What It Does
-
-✅ Simulates a **real user login** via browser
-✅ Extracts the **authorization code** automatically
-✅ Exchanges it for **access + refresh tokens**
-✅ Uses **access token** to hit a protected API
-✅ Uses **refresh token** to get a new access token
-
----
-
 ## 🧠 How the "Browser Login" Catch Was Solved
 
 Most automation tools get flagged by Google.
